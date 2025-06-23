@@ -4,7 +4,7 @@ This project is a front-end clone of LinkedIn's homepage, created using HTML and
 
 #Screenshots
 
-
+https://github.com/Rajesh416-vlsi/LinkedInPage/issues/1#issue-3167173579
 
 
 
